@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jevith17
 - 👀 I’m interested in web developement,cloud computing.
 - 🌱 I’m currently learning C,C++
-- 💞️ I’m looking to collaborate on various porjects related to web dev.
+- 💞️ I’m looking to collaborate on various projects related to web dev.
 - 📫 How to reach me: discord:mevith
 
 <!---
